@@ -22,10 +22,10 @@ public class Method_Overloading {
 	
 	public static void main(String[] args) {
 		Method_Overloading mol = new Method_Overloading();
-		mol.employee_details("Karthick");
+		mol.employee_details("Vetri");
 		mol.employee_details(2216071);
 		mol.employee_details(45356, 14538);
-		mol.employee_details("Silambarasan", 2021567);
+		mol.employee_details("Anbarasan", 2021567);
 		mol.employee_details(35000, 400691);
 	}
 
